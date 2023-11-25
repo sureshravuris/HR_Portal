@@ -29,4 +29,5 @@ ensuring system reliability.
 experience and system functionality.
 - **December 5th**: Commencement of final presentation preparations,
 encapsulating our developmental journey.
+
 - **December 10th**: The grand finale - Project Submission and Presentation.
